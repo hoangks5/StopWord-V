@@ -1,1 +1,1 @@
-# L-c-StopWord-ti-ng-V
+Funcion Lọc Từ Dùng Trong Câu Tiếng V
